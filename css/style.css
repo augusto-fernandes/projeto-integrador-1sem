@@ -1,0 +1,42 @@
+.logo-riot{
+    width: 70px;
+    margin-right: 10px;
+}
+.navbar-cor{
+    background-color: #EE9021 ;
+}
+
+#myVideo {
+    flex-wrap: wrap;
+    min-width: 50%;
+    min-height: 50%;
+  }
+.imagem-menu{
+    display: flex;
+    justify-content: center;
+}
+.imagem-background{
+  position: absolute;
+  margin-bottom: 50px;
+  bottom: 0;
+  width: 700px;
+}
+
+
+
+.descricao{
+    margin-top: 90px
+}
+.o-que-eh {
+    color: aliceblue;
+}
+.apresentacao{
+    color: aliceblue;
+    align-items: center;
+}
+.campeoes{
+    color: aliceblue;
+}
+.responsaveis{
+    color: aliceblue;
+}
